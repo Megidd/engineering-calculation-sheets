@@ -22,3 +22,9 @@ https://github.com/connorferster/handcalcs
 It's a combination of multiple technologies like Jupyter, Python, Markdown, Math Latex, and PIP packages.
 
 It could be a replacement for civil engineering calculation sheets, for example.
+
+## Example
+
+This is an example notebook:
+
+![Example](media/Screenshot_20240511_143233.png)
