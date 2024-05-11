@@ -8,7 +8,7 @@ Install requirements and run:
 pip install jupyterlab
 pip install handcalcs
 pip install forallpeople
-jupyter lab # Open *.ipynb files and enjoy.
+jupyter lab # Create *.ipynb files and enjoy.
 ```
 
 ## About
