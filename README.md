@@ -13,7 +13,7 @@ jupyter lab # Open *.ipynb files and enjoy.
 
 ## About
 
-Take a look at this:
+Take a look at these:
 
 https://youtu.be/n9Uzy3Eb-XI
 
